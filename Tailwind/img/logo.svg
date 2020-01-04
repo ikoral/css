@@ -12,13 +12,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 400 150"
+   viewBox="0 0 400 400"
    enable-background="new 0 0 1000 1000"
    xml:space="preserve"
    id="svg2767"
    sodipodi:docname="logo.svg"
    width="400"
-   height="150"
+   height="400"
    inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
    inkscape:export-filename="/home/student11/Documents/CSS/Tailwind/img/logo.svg.png"
    inkscape:export-xdpi="96"
@@ -37,7 +37,7 @@
    id="namedview2769"
    showgrid="false"
    inkscape:zoom="0.472"
-   inkscape:cx="87.288136"
+   inkscape:cx="-285.59322"
    inkscape:cy="233.41853"
    inkscape:window-x="43"
    inkscape:window-y="27"
@@ -49,20 +49,21 @@
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
 <g
    id="g2763"
-   transform="translate(0,-850)"><g
+   transform="translate(0,-600)"><g
    id="g818"
    style="fill:#bec1fc"><text
    transform="scale(1.086743,0.92018076)"
    id="text3536"
-   y="1050.2476"
-   x="7.0091324"
+   y="912.10223"
+   x="5.059597"
    style="font-style:normal;font-weight:normal;font-size:89.90084076px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bec1fc;fill-opacity:1;stroke:none;stroke-width:0.93646711"
    xml:space="preserve"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:136.50160217px;font-family:Uroob;-inkscape-font-specification:'Uroob Bold';fill:#bec1fc;stroke-width:0.93646711"
-     y="1050.2476"
-     x="7.0091324"
+     y="912.10223"
+     x="5.059597"
      id="tspan3534"
      sodipodi:role="line">IZOCODE</tspan></text>
+
 
 
 
